@@ -1,8 +1,8 @@
 # Social Media:
-<a href="https://discordapp.com/users/798534518897115137" target="_blank">
+<a href="https://discordapp.com/users/798534518897115137" target="_self">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://instagram/ph_carvalho_h" target="_blank">
+<a href="https://instagram.com/ph_carvalho_h" target="_self">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
