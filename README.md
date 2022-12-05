@@ -1,8 +1,10 @@
 # Social Media:
-<a href="https://discordapp.com/users/798534518897115137">
+<a href="https://discordapp.com/users/798534518897115137" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://instagram/ph_carvalho_h" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 # 💻 Tech Stack:
 <a href="https://www.javascript.com/"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
